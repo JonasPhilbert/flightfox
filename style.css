@@ -3,7 +3,9 @@ body {
 }
 
 button {
+  font-family: monospace;
   width: 100%;
+  margin-top: 0.3rem;
 }
 
 .hidden {

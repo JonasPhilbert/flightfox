@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "FlightFox",
+  "version": "1.0",
+
+  "description": "Development tools specific to FlightLogger.",
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_title": "FlightFox",
+    "default_popup": "menu.html"
+  }
+}
+
